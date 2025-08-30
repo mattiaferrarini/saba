@@ -7,6 +7,8 @@ It was obtained via continued pretraining of [`dbmdz/bert-base-italian-xxl-cased
 on ~40k Italian song lyrics from [Wikisource](https://huggingface.co/datasets/mattiaferrarini/wikisource-italian-poems) and [Biblioteca Italiana](https://github.com/linhd-postdata/biblioteca_italiana).
 The objective was Masked Language Modeling (MLM). 
 
+The model is available on [Hugging Face](https://huggingface.co/mattiaferrarini/saba).
+
 ## Evaluation
 
 The base model and the adapted model were tested on a held-out set of ~1k poems with the following results:
