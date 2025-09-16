@@ -18,6 +18,7 @@ The base model and the adapted model were tested on a held-out set of ~1k poems 
 | Base    | 3.39    | 29.56    |
 | **Saba**    | **1.94**    | **6.94**    |
 
+**Evaluation of the learned representations will be made available in the future, once a suitable dataset has been created / identified.**
 
 ## Why Saba?
 Following the tradition of giving Italian names to BERT models for the Italian language 
