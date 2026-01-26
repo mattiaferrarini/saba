@@ -8,6 +8,7 @@ on ~40k Italian song lyrics from [Wikisource](https://huggingface.co/datasets/ma
 The objective was Masked Language Modeling (MLM). 
 
 The model is available on [Hugging Face](https://huggingface.co/mattiaferrarini/saba).
+The training, validation and test datasets have been available in `datasets`.
 
 ## Evaluation
 
