@@ -24,6 +24,7 @@ def split_json(input_path, seed=42):
     def process_item(item):
         return {
             "text": text_to_str(item),
+            "author": item.get("author", ""),
             "url": item.get("url", "")
         }
 
